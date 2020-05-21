@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Huiscool&#39;s blog</title>
+  
+  <subtitle>Swim Everyday 划水每一天</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.huyc.info/"/>
+  <updated>2020-05-21T09:24:25.303Z</updated>
+  <id>https://blog.huyc.info/</id>
+  
+  <author>
+    <name>Hu Yingcong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DDIA 笔记 (2) 数据模型和查询语言</title>
+    <link href="https://blog.huyc.info/2020/05/21/ddia-2/"/>
+    <id>https://blog.huyc.info/2020/05/21/ddia-2/</id>
+    <published>2020-05-21T09:23:24.000Z</published>
+    <updated>2020-05-21T09:24:25.303Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;关系模型vs文档模型-Relational-Model-Versus-Document-Model&quot;&gt;&lt;a href=&quot;#关系模型vs文档模型-Relational-Model-Versus-Document-Model&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="DDIA" scheme="https://blog.huyc.info/tags/DDIA/"/>
+    
+  </entry>
+  
+</feed>
