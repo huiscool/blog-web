@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.huyc.info/"/>
-  <updated>2020-07-19T06:46:50.239Z</updated>
+  <updated>2020-07-19T06:50:41.404Z</updated>
   <id>https://blog.huyc.info/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>DDIA-7</title>
+    <title>DDIA 笔记 (7) 事务</title>
     <link href="https://blog.huyc.info/2020/07/19/ddia-7/"/>
     <id>https://blog.huyc.info/2020/07/19/ddia-7/</id>
-    <published>2020-07-19T06:46:43.210Z</published>
-    <updated>2020-07-19T06:46:50.239Z</updated>
+    <published>2020-07-18T18:50:50.000Z</published>
+    <updated>2020-07-19T06:50:41.404Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     </summary>
     
     
+    
+      <category term="DDIA" scheme="https://blog.huyc.info/tags/DDIA/"/>
     
   </entry>
   
