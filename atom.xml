@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.huyc.info/"/>
-  <updated>2020-05-21T09:24:25.303Z</updated>
+  <updated>2020-07-19T06:46:50.239Z</updated>
   <id>https://blog.huyc.info/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DDIA-7</title>
+    <link href="https://blog.huyc.info/2020/07/19/ddia-7/"/>
+    <id>https://blog.huyc.info/2020/07/19/ddia-7/</id>
+    <published>2020-07-19T06:46:43.210Z</published>
+    <updated>2020-07-19T06:46:50.239Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;事务&quot;&gt;&lt;a href=&quot;#事务&quot; class=&quot;headerlink&quot; title=&quot;事务&quot;&gt;&lt;/a&gt;事务&lt;/h2&gt;&lt;h3 id=&quot;ACID的理解&quot;&gt;&lt;a href=&quot;#ACID的理解&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>DDIA 笔记 (2) 数据模型和查询语言</title>
